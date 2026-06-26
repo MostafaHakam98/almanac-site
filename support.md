@@ -4,7 +4,7 @@ Need help with **Almanac**, the personal-finance app? We're happy to help.
 
 ## Contact
 
-**Email:** [SUPPORT EMAIL]
+**Email:** moustafahakam1998@gmail.com
 
 We typically reply within a few business days. When you write in, it helps to
 include your device model, Android version, and a short description of what

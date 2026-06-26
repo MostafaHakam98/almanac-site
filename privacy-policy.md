@@ -129,7 +129,7 @@ date above and, for significant changes, notify you in the app.
 
 ## 9. Contact
 
-**[DEVELOPER / LEGAL NAME]**
-Email: **[SUPPORT EMAIL]**
+**Moustafa Hakam Mohamed Abdelhamid Elshahat** (developer of Almanac)
+Email: **moustafahakam1998@gmail.com**
 
 If you have questions about this policy or your data, email us and we'll help.
