@@ -1,12 +1,12 @@
-# Almanac — Privacy Policy
+# Thaler — Privacy Policy
 
 **Last updated: 26 June 2026**
 
-Almanac ("the app", "we", "us") is a personal-finance app that helps you track
+Thaler ("the app", "we", "us") is a personal-finance app that helps you track
 spending, budgets, and net worth. This policy explains what data the app
 handles, where it goes, and the choices you have.
 
-**Our core principle: your financial data stays on your device.** Almanac is
+**Our core principle: your financial data stays on your device.** Thaler is
 local-first. The accounts, transactions, budgets, assets, and debts you enter
 are stored in a database **on your phone**, not on our servers. We do not have a
 server that holds your financial data, and we never sell your data.
@@ -28,7 +28,7 @@ improve the app. This **never** includes your transactions, amounts, account
 names, or other financial details. You can turn it off at any time.
 
 **c) Bank/wallet notification access — opt-in.**
-If you enable auto-capture, Almanac reads incoming bank/payment **notifications**
+If you enable auto-capture, Thaler reads incoming bank/payment **notifications**
 on your device to pre-fill draft transactions for your review. This processing
 happens **on your device**; the notification content is not transmitted to us.
 You can disable this any time in your device settings or in the app.
@@ -94,7 +94,7 @@ usable, with the related feature turned off.
 
 ## 5. Children
 
-Almanac is not directed to children under 13 (or the minimum age in your
+Thaler is not directed to children under 13 (or the minimum age in your
 country) and we do not knowingly collect data from them.
 
 ---
@@ -129,7 +129,7 @@ date above and, for significant changes, notify you in the app.
 
 ## 9. Contact
 
-**Moustafa Hakam Mohamed Abdelhamid Elshahat** (developer of Almanac)
+**Moustafa Hakam Mohamed Abdelhamid Elshahat** (developer of Thaler)
 Email: **moustafahakam1998@gmail.com**
 
 If you have questions about this policy or your data, email us and we'll help.

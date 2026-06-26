@@ -1,6 +1,6 @@
-# Almanac — Support
+# Thaler — Support
 
-Need help with **Almanac**, the personal-finance app? We're happy to help.
+Need help with **Thaler**, the personal-finance app? We're happy to help.
 
 ## Contact
 
@@ -13,7 +13,7 @@ happened.
 ## Common questions
 
 **Where is my data stored?**
-On your device. Almanac is local-first — your accounts and transactions are not
+On your device. Thaler is local-first — your accounts and transactions are not
 held on our servers. See our [Privacy Policy](privacy-policy.md).
 
 **How do I back up?**
